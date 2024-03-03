@@ -10,11 +10,8 @@
 
 <p align="center">
   <a href="#key-features">Key Features</a> •
-  <a href="#screenshots">Screenshots</a> •
+  <a href="#pictures">Pictures</a> •
   <a href="#getting-started">Getting Started</a> •
-  <a href="#contributing">Contributing</a> •
-  <a href="#license">License</a> •
-  <a href="#acknowledgments">Acknowledgments</a>
 </p>
 
 ## Key Features
