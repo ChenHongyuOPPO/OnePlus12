@@ -26,8 +26,8 @@
 ## Screenshots
 
 <p align="center">
-  <img src="C:\Users\Cristi\Desktop\screens" alt="Screenshot 1" width="45%">
-  <img src="https://via.placeholder.com/600x400" alt="Screenshot 2" width="45%">
+  <img src="https://xmartifydubai.com/wp-content/uploads/2024/02/2023-New-Original-OnePlus-12-Global-Rom-Snapdragon-8-Gen-3-6-82-Inch-AMOLED-Display.png_640x640.webp" alt="Screenshot 1" width="45%">
+  <img src="https://xmartifydubai.com/wp-content/uploads/2024/02/2023-New-Original-OnePlus-12-Global-Rom-Snapdragon-8-Gen-3-6-82-Inch-AMOLED-Display-1.webp" alt="Screenshot 2" width="45%">
 </p>
 
 ## Getting Started
