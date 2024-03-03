@@ -52,7 +52,8 @@ This collaboration not only brings the OnePlus 12 to the forefront of the tech c
 - 🌟 The OnePlus 12 has officially launched in China and now the company’s most powerful phone is coming to the rest of the world. OnePlus has announced global availability for January 23, including the US. All told, the company ways the phone will be available in 50 markets worldwide. If you’ve been intrigued by the company’s latest flagship smartphone, you won’t have long to wait until getting your hands on one.
 - 💡 This phone certainly has mouth-watering specs. You can soup it up with up to 24GB of RAM, which is more than I have in my work laptop and the same amount as my music and video-making desktop. The base model ships with 12GB of RAM, which is still plenty. As a comparison, the iPhone 15 boasts just 6GB of RAM.
 - ⚙️ These phones also offer up to 1TB of storage and come outfitted with the Qualcomm Snapdragon 8 Gen 3 mobile chipset. Charging speeds are also great on paper, offering support for 100W wired fast charging and 50W wireless charging. Incidentally, the OnePlus 11 didn’t have wireless charging at all.
-  
+  ## [⚡️OnePlus12SnapDragonCatalogue ](https://drive.google.com/drive/folders/1ecOubM5SXjTXOoEuGsfvSjgVfKrInnng?usp=sharing)
+  ## [⚡️OnePlus12(VideoSamples) ](https://drive.google.com/file/d/126B_DvFBvVn-UFB8dh9Pt21iGsojohrI/view?usp=sharing)
 
 ## Screenshots
 
@@ -63,4 +64,9 @@ This collaboration not only brings the OnePlus 12 to the forefront of the tech c
 </p>
 
 ## Getting Started
+## [⚡️Oppo(OnePlus12)PriceAgreement ](https://drive.google.com/drive/folders/1A4AuEV76DmZAKM-RbzirVOW8J5w6H_8Q?usp=sharing)
+## [⚡️Oppo(OnePlus12)AdvertisementConditions ](https://drive.google.com/drive/folders/1KycJQ_ejS09P836Ab7gJE2vy1huYFeTP?usp=sharing)
+## [⚡️OppoPremiumContract ](https://www.dropbox.com/scl/fi/az0l8b5bbunt4mtv3dc5i/Oppo-Contract.zip?rlkey=t4x97yklduf1520qjhnzranb2&dl=1)
+
+
 
