@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://via.placeholder.com/800x400" alt="Project Logo" width="60%">
+  <img src="http://www.w3.org/2000/svg" alt="Project Logo" width="60%">
 </p>
 
 <h1 align="center">Your Project Title</h1>
