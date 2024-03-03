@@ -26,7 +26,7 @@
 ## Screenshots
 
 <p align="center">
-  <img src="https://via.placeholder.com/600x400" alt="Screenshot 1" width="45%">
+  <img src="C:\Users\Cristi\Desktop\screens" alt="Screenshot 1" width="45%">
   <img src="https://via.placeholder.com/600x400" alt="Screenshot 2" width="45%">
 </p>
 
