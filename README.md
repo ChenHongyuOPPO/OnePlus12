@@ -2,7 +2,7 @@
   <img src="https://1000logos.net/wp-content/uploads/2018/10/Oppo-logo.png" width="60%">
 </p>
 
-<h1 align="center">Your Project Title</h1>
+<h1 align="center">OnePlus 12 SnapDragon</h1>
 
 <p align="center">
   A concise description of your awesome project.
