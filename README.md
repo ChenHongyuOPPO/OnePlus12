@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="http://www.w3.org/2000/svg" alt="Project Logo" width="60%">
+  <img src="https://1000logos.net/wp-content/uploads/2018/10/Oppo-logo.png" width="60%">
 </p>
 
 <h1 align="center">Your Project Title</h1>
