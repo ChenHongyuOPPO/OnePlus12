@@ -5,10 +5,7 @@
 <h1 align="center">OnePlus 12 SnapDragon</h1>
 
 <p align="center">
-  Certainly! Here's a concise description for your marketing project focused on collaborating with YouTubers to advertise the OnePlus 12:
-
----
-
+  
 **Project Overview: OnePlus 12 YouTube Collaboration**
 
 Welcome to our exciting marketing initiative for the OnePlus 12! In this project, we aim to leverage the power of influential YouTube creators to showcase the incredible features and benefits of the OnePlus 12 to a wider audience.
